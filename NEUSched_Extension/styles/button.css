@@ -1,0 +1,32 @@
+button {
+    padding: 0.4rem 0.8rem;
+    border: none;
+    background: none;
+    cursor: pointer;
+    border-radius: 0.4rem;
+    transition: background-color 0.3s ease;
+    vertical-align: middle;
+}
+
+button.primary {
+    width: 100%;
+    margin-bottom: 15px;
+    border: 1px solid #008000;
+    color: #008000;
+}
+
+button.primary:hover {
+    background: #008000;
+    color: hsl(210, 40%, 98%);
+}
+
+button.outline {
+    width: 100%;
+    border: 1px solid #0096FF;
+    color: #0096FF;
+}
+
+button.outline:hover {
+    background: #0096FF;
+    color: hsl(210, 40%, 98%);
+}

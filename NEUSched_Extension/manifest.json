@@ -1,0 +1,9 @@
+{
+    "manifest_version": 3,
+    "name": "NEUSCHED",
+    "version": "1.0",
+    "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...", 
+    "action": {
+        "default_popup": "/main/index.html"
+    }
+}
